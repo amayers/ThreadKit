@@ -1,4 +1,4 @@
-import UIKit
+import QuartzCore
 
 /// The purpose of this class is to "debounce" a 'call' that happens as a result of a rapid callback
 /// But needs to be rate limited for performance reasons.
